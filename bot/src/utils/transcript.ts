@@ -1,0 +1,1 @@
+export async function generateTranscript(ch:any){ const msgs=await ch.messages.fetch({limit:100}).catch(()=>null); if(!msgs) return 'No transcript'; return msgs.map((m:any)=>`[${m.createdAt.toISOString()}] ${m.author.tag}: ${m.content}`).reverse().join('\n'); }

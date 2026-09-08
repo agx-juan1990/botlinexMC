@@ -1,0 +1,1 @@
+export const roles = { staff: '1546475680164872232', gestor: '1546475680164872232', dashboardAllowed: ['1546475680164872232','1546463652180262963','1546218602666135695'], hierarchy: ['Dueno','Owner','Co-owner','Head manager','Manager','Admin','SrMod','Mod','T-Mod','Helper'] };

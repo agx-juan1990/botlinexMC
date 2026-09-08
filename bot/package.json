@@ -1,0 +1,30 @@
+{
+  "name": "linexmc-bot",
+  "version": "6.0.0",
+  "private": true,
+  "type": "module",
+  "description": "LinexMC Official Bot - By Aegox ORG - Private",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "deploy": "tsx src/deploy.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "firebase-admin": "^12.0.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.4.0",
+    "winston": "^3.11.0",
+    "node-cron": "^3.0.3",
+    "canvas": "^2.11.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0",
+    "@types/node": "^20.0.0",
+    "@types/node-cron": "^3.0.11"
+  }
+}

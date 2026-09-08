@@ -1,0 +1,36 @@
+# General
+node_modules/
+.env
+.env.local
+dist/
+build/
+.next/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Firebase
+.firebase/
+serviceAccountKey.json
+
+# Dashboard
+dashboard/.next/
+dashboard/out/
+dashboard/node_modules/
+
+# Bot
+bot/node_modules/
+bot/dist/

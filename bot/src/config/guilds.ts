@@ -1,0 +1,1 @@
+export const guilds = { public: '1546296653278085280', staff: '1545924581817319526' };

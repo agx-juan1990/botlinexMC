@@ -1,0 +1,46 @@
+================================================================================
+LICENCIA PRIVADA Y CONFIDENCIAL - AEGOX ORG - ALL RIGHTS RESERVED
+LinexMC Official Bot - Propiedad exclusiva de Aegox ORG
+================================================================================
+
+Copyright (c) 2026 Aegox ORG. Todos los derechos reservados.
+
+Este software, incluyendo codigo fuente, configuraciones, diseños, logos,
+documentacion y cualquier material asociado, es propiedad exclusiva de
+AEGOX ORG y LinexMC Network.
+
+PROHIBICIONES:
+- Queda estrictamente prohibida la copia, distribucion, reventa, modificacion,
+  ingenieria inversa, o uso no autorizado sin permiso escrito de Aegox ORG.
+- Cualquier violacion sera perseguida bajo la ley DMCA y leyes internacionales
+  de propiedad intelectual.
+
+PROTECCION LEGAL:
+- Agencia: Aegox ORG - https://www.aegox.org
+- Portal Legal: https://legal.aegox.org/
+- Terminos de Servicio: https://legal.aegox.org/tos
+- Politica DMCA / Copyright: https://legal.aegox.org/dmca
+- Contacto Legal: legal@aegox.org
+- Soporte Oficial: https://www.aegox.org/soporte
+- Documentacion: https://legal.aegox.org/docs
+- Estado Servicios: https://status.aegox.org
+
+TITULAR:
+- LinexMC Network - IP: play.linexmc.net (provisional)
+- Desarrollo: Aegox ORG - Equipo de desarrollo oficial
+- Representante: Juan Trejo (aegoxarg)
+
+USO AUTORIZADO:
+- Solo para uso interno de LinexMC Network y personal autorizado por Aegox ORG.
+- Deploy permitido unicamente en infraestructura oficial de LinexMC / Aegox.
+
+JURISDICCION:
+- Esta licencia se rige por las leyes de Argentina y tratados internacionales.
+- Cualquier disputa sera resuelta en tribunales de Mar del Plata, Buenos Aires.
+
+CONTACTO:
+- Para licencias comerciales: legal@aegox.org
+- Web: https://www.aegox.org
+
+Version: 6.0 - Final Profesional - 2026
+================================================================================
