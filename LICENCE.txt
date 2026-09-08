@@ -21,14 +21,12 @@ PROTECCION LEGAL:
 - Terminos de Servicio: https://legal.aegox.org/tos
 - Politica DMCA / Copyright: https://legal.aegox.org/dmca
 - Contacto Legal: legal@aegox.org
-- Soporte Oficial: https://www.aegox.org/soporte
-- Documentacion: https://legal.aegox.org/docs
-- Estado Servicios: https://status.aegox.org
+- Soporte Oficial: soporte@aegox.org
 
 TITULAR:
-- LinexMC Network - IP: play.linexmc.net (provisional)
+- LinexMC Network 
 - Desarrollo: Aegox ORG - Equipo de desarrollo oficial
-- Representante: Juan Trejo (aegoxarg)
+- Representante: Juan  (aegoxarg)
 
 USO AUTORIZADO:
 - Solo para uso interno de LinexMC Network y personal autorizado por Aegox ORG.
@@ -36,7 +34,7 @@ USO AUTORIZADO:
 
 JURISDICCION:
 - Esta licencia se rige por las leyes de Argentina y tratados internacionales.
-- Cualquier disputa sera resuelta en tribunales de Mar del Plata, Buenos Aires.
+
 
 CONTACTO:
 - Para licencias comerciales: legal@aegox.org
